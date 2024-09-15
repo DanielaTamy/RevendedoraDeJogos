@@ -8,7 +8,7 @@ Este projeto em grupo abrange a criação de um banco de dados completo, desde o
 Bruno Nardoni
 Daniel Lima
 Daniela Yuki  
-Isabela Conceição
+Isabella Conceição
 
 ## 📋 **Objetivo**
 
