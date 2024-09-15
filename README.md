@@ -2,7 +2,13 @@
 setembro/2023
 Arquitetura de Banco de dados - 2° semestre Ciência da computação PUCPR
 
-Este projeto abrange a criação de um banco de dados completo, desde o modelo conceitual até a implementação da aplicação em Python usando MySQL Workbench.
+Este projeto em grupo abrange a criação de um banco de dados completo, desde o modelo conceitual até a implementação da aplicação em Python usando MySQL Workbench.
+
+**Estudantes:**  
+Bruno Nardoni
+Daniel Lima
+Daniela Yuki  
+Isabela Conceição
 
 ## 📋 **Objetivo**
 
